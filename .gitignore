@@ -1,0 +1,6 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# referenced from https://www.gitignore.io/api/django
